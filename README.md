@@ -5,6 +5,7 @@
 ## Скачать проект
 Полная версия программы скачивается с Google Диске:
 [Скачать архив с программой](https://drive.google.com/uc?export=download&id=18dB_cmd5yXjrNqnDC3o663SncCh3WKvt)
+
 Если сомневаетесь в чистоте программы, то можете залить её на VirusTotal
 
 ## Требования
