@@ -4,7 +4,7 @@
 
 ## Скачать проект
 Полная версия программы доступна для скачивания на Google Диске:
-[Скачать архив с программой](https://drive.google.com/file/d/18dB_cmd5yXjrNqnDC3o663SncCh3WKvt/view?usp=drive_link)
+[Скачать архив с программой](https://drive.google.com/uc?export=download&id=18dB_cmd5yXjrNqnDC3o663SncCh3WKvt)
 
 ## Требования
 - Windows
