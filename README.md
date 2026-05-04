@@ -13,6 +13,7 @@
 
 ## Структура папок
 svg-auto-converter/
+
 ├── convert.bat          <-- запускаешь
 
 ├── svg2png.py
