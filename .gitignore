@@ -1,0 +1,13 @@
+# Конвертер resvg (бинарник)
+resvg.exe
+
+# Лог ошибок
+error.log
+
+# Содержимое временных и выходных папок
+PNG/*
+!PNG/.gitkeep
+SVG_END/*
+!SVG_END/.gitkeep
+SVG_BAD/*
+!SVG_BAD/.gitkeep
